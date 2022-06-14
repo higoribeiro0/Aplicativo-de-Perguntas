@@ -17,4 +17,4 @@ você precisará de um navegador compatível.
 
 ## Autores
 
-- **Higo Ribeiro** - _Trabalho inicial_ - [@higo.ribeiro.s](https://www.instagram.com/higo.ribeiro.s/)
+- **Higo Ribeiro** - _Projeto pessoal_ - [@higo.ribeiro.s](https://www.instagram.com/higo.ribeiro.s/)
