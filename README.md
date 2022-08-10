@@ -5,7 +5,7 @@ um `Aplicativo de perguntas` para fixar meu estudo sobre desenvolvimento web, ma
 
 ## 📁 Acesso ao projeto
 
-Live preview: https://lnkd.in/dMP7jCVP
+Live preview: https://lnkd.in/d876e2CA
 
 Para você colocar este projeto em funcionamento, basta você clonar este
 projeto ou fazer download e executar o arquivo `index.html` em seu
